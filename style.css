@@ -1,0 +1,32 @@
+.copy_right_footer{
+        position: fixed;
+        bottom: 0;
+        background-color: rgb(243, 0, 113);
+        width: 100%;
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        color: black;
+        line-height: 3;
+    
+}
+.heading{
+    font-size: 25px; 
+    font-weight: 700;
+    margin: 0px;
+    width: 100%;
+    border: 9px double black;
+    font-family: 'Bebas Neue', cursive;
+    color:rgb(96, 96, 255);
+    box-shadow:5px 50px 100px crimson;
+    background-color: whitesmoke;
+ }
+ .note{
+     font-size: 20px;
+     color: black;
+ }
+ canvas{
+     border: 5px solid black;
+     border-radius: 25px;
+     box-shadow: 5px 5px 50px purple;
+ }
